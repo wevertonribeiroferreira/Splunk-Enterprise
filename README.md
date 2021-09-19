@@ -2,6 +2,9 @@
 
 Ran the free version of Splunk Enterprise (up to 500mb ingestion per day) on Virtualbox locally.
 
+- Access can be done locally via `http://192.168.33.10:8000/en-US/app/launcher/home` once the VMs are on.
+
+
 
 
 ![alt text](https://github.com/wevertonribeiroferreira/Splunk-Enterprise/blob/main/Images/forwarding.PNG)
