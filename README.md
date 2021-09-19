@@ -1,4 +1,4 @@
-# Splunk-Enterprise
+# Splunk-Enterprise in progress
 
 Ran the free version of Splunk Enterprise (up to 500mb ingestion per day) on Virtualbox locally.
 
