@@ -13,5 +13,5 @@ Also added to the project to collect data from various sources, including other 
 
 
 ![alt_text](https://github.com/wevertonribeiroferreira/Splunk-Enterprise/blob/main/Images/Spunk.PNG)
-![alt_text](https://github.com/wevertonribeiroferreira/Splunk-Enterprise/blob/main/Images/Spunk2.PNG)
-![alt_text](https://github.com/wevertonribeiroferreira/Splunk-Enterprise/blob/main/Images/Spunk3.PNG)
+![alt_text](https://github.com/wevertonribeiroferreira/Splunk-Enterprise/blob/main/Images/splunk2.PNG)
+![alt_text](https://github.com/wevertonribeiroferreira/Splunk-Enterprise/blob/main/Images/spunk3.PNG)
