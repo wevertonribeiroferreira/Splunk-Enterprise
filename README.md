@@ -22,7 +22,7 @@ Also added to the project to collect data from various sources, including other 
 ![alt text](https://github.com/wevertonribeiroferreira/Splunk-Enterprise/blob/main/Images/forwarding.PNG)
 
 
-# Dashboard 
+# Dashboard | Searches | Alerts
 ![alt text](https://github.com/wevertonribeiroferreira/Splunk-Enterprise/blob/main/images/Dashboard.PNG)
 
 ![alt text](https://github.com/wevertonribeiroferreira/Splunk-Enterprise/blob/main/images/Capture.PNG)
