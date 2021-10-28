@@ -18,3 +18,14 @@ Ran the free version of Splunk Enterprise (up to 500mb ingestion per day) on Vir
 Also added to the project to collect data from various sources, including other forwarders, in order to send it back to Splunk Enterprise.
 
 ![alt text](https://github.com/wevertonribeiroferreira/Splunk-Enterprise/blob/main/Images/forwarding.PNG)
+
+
+# Scan / Dashboard
+![alt text](https://github.com/wevertonribeiroferreira/Splunk-Enterprise/blob/main/images/Capture.PNG)
+![alt text](https://github.com/wevertonribeiroferreira/Splunk-Enterprise/blob/main/images/Capture2.PNG)
+![alt text](https://github.com/wevertonribeiroferreira/Splunk-Enterprise/blob/main/images/Capture3.PNG)
+![alt text](https://github.com/wevertonribeiroferreira/Splunk-Enterprise/blob/main/images/Capture4.PNG)
+![alt text](https://github.com/wevertonribeiroferreira/Splunk-Enterprise/blob/main/images/Capture5.PNG)
+![alt text](https://github.com/wevertonribeiroferreira/Splunk-Enterprise/blob/main/images/Capture6.PNG)
+![alt text](https://github.com/wevertonribeiroferreira/Splunk-Enterprise/blob/main/images/Dashboard.PNG)
+![alt text](https://github.com/wevertonribeiroferreira/Splunk-Enterprise/blob/main/images/note.PNG)
